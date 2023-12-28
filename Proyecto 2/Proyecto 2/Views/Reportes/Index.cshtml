@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Proyecto_2.Models.Reporte>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="text-align:center">LISTADO DE REPORTES</h1>
+
+<p>
+    <br>
+    <br>
+    <button onclick="location.href='@Url.Action("VentasMes")' + '?Mes=' + document.getElementById('mes').value + '&IdParqueo=' + document.getElementById('idParqueo').value" class="btn-primary" style="margin-right:25px" >Ventas del mes</button>
+    <select id="mes" name="mes">
+        <option value="enero">Enero</option>
+        <option value="febrero">Febrero</option>
+        <option value="marzo">Marzo</option>
+        <option value="abril">Abril</option>
+        <option value="mayo">Mayo</option>
+        <option value="junio">Junio</option>
+        <option value="julio">Julio</option>
+        <option value="agosto">Agosto</option>
+        <option value="septiembre">Septiembre</option>
+        <option value="octubre">Octubre</option>
+        <option value="noviembre">Noviembre</option>
+        <option value="diciembre">Diciembre</option>
+    </select>
+    <input type="number" id="idParqueo" placeholder="Indique el N° parqueo">
+    <br>
+    <br>
+</p>
+
+<p>
+    <button onclick="location.href='@Url.Action("VentasDia")' + '?Salida=' + document.getElementById('salida').value + '&IdParqueo=' + document.getElementById('idParqueoVenta').value" class="btn-primary" style="margin-right:25px">Ventas del día</button>
+    <input type="date" id="salida">
+    <input type="number" id="idParqueoVenta" placeholder="Indique el N° parqueo">
+</p>
+
+
