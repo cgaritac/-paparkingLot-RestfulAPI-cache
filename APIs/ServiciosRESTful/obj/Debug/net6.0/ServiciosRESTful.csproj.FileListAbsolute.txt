@@ -30,3 +30,35 @@ C:\Users\cgari\OneDrive\Proyectos\Proyecto 2\APIs\ServiciosRESTful\obj\Debug\net
 C:\Users\cgari\OneDrive\Proyectos\Proyecto 2\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.pdb
 C:\Users\cgari\OneDrive\Proyectos\Proyecto 2\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.genruntimeconfig.cache
 C:\Users\cgari\OneDrive\Proyectos\Proyecto 2\APIs\ServiciosRESTful\obj\Debug\net6.0\ref\ServiciosRESTful.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\appsettings.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\ServiciosRESTful.exe
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\ServiciosRESTful.deps.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\ServiciosRESTful.runtimeconfig.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\ServiciosRESTful.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\ServiciosRESTful.pdb
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.AssemblyInfoInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.AssemblyInfo.cs
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets\msbuild.ServiciosRESTful.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets\msbuild.build.ServiciosRESTful.props
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServiciosRESTful.props
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServiciosRESTful.props
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\scopedcss\bundle\ServiciosRESTful.styles.css
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.csproj.CopyComplete
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\refint\ServiciosRESTful.dll
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.pdb
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ServiciosRESTful.genruntimeconfig.cache
+C:\Users\cgari\OneDrive\Proyectos\parkingLot-MVCRestfulAPI-cache\APIs\ServiciosRESTful\obj\Debug\net6.0\ref\ServiciosRESTful.dll
